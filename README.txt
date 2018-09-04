@@ -1,1 +1,1 @@
-¡¶Qt Creator¿ìËÙÈëÃÅ¡·Ê¾Àý´úÂë
+ã€ŠQt Creatorå¿«é€Ÿå…¥é—¨ã€‹ç¤ºä¾‹ä»£ç 
