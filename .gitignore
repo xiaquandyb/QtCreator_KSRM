@@ -49,15 +49,20 @@ Thumbs.db
 *.idb
 *.ilk
 *.pdb
-*.sln
+# *.sln
 *.suo
-*.vcproj
+# *.vcproj
 *vcproj.*.*.user
 *.ncb
 *.sdf
 *.opensdf
-*.vcxproj
+# *.vcxproj
 *vcxproj.*
+!*vcxproj.filters
+*.VC.db
+*.tlog
+*/*/Debug/*.log
+*/*/Release/*.log
 
 # MinGW generated files
 *.Debug
@@ -70,4 +75,3 @@ Thumbs.db
 # --------
 # *.dll
 # *.exe
-
